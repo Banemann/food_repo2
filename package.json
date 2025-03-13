@@ -1,0 +1,16 @@
+{
+  "name": "food_repo2",
+  "version": "1.0.0",
+  "description": "Front-end application on food recipes that consumes 2 APIs.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Casper Banemann",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.22.0",
+    "globals": "^16.0.0"
+  }
+}
